@@ -1,0 +1,14 @@
+c:\users\richjacobs\documents\visual studio 2015\Projects\Dodger\Dodger\bin\Debug\Dodger.exe.config
+c:\users\richjacobs\documents\visual studio 2015\Projects\Dodger\Dodger\bin\Debug\Dodger.exe
+c:\users\richjacobs\documents\visual studio 2015\Projects\Dodger\Dodger\bin\Debug\Dodger.pdb
+c:\users\richjacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.csprojResolveAssemblyReference.cache
+c:\users\richjacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.Main.resources
+c:\users\richjacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.Properties.Resources.resources
+c:\users\richjacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.csproj.GenerateResource.Cache
+c:\users\richjacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.exe
+c:\users\richjacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.pdb
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.Components.Loading.resources
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.Components.Options.resources
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Interop.WMPLib.dll
+C:\Users\RichJacobs\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.csproj.ResolveComReference.cache
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.History.resources
